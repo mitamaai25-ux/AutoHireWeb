@@ -4,7 +4,7 @@ export const colors = {
   secondary: '#7A5CFF',
   accent: '#19E0C2',
   navy: '#0F1A2A',
-  bg: '#F3F5F7',
+  bg: '#D3D3D3',
   surface: '#FFFFFF',
   muted: '#8A94A6',
   danger: '#FF5B5B',
